@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codinggirl18" target="blank"><img src="https://img.shields.io/twitter/follow/codinggirl18?logo=twitter&style=for-the-badge" alt="codinggirl18" /></a> </p>
 
-- 🔭 I’m currently working on **React and Next JS**
+- 🔭 I’m currently working on [My movie app](https://jemmyplay-movies.vercel.app/)
 
 - 🌱 I’m currently learning **React JS and Next JS**
 
