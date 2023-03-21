@@ -1,4 +1,4 @@
-###<p align="center">Holla, Nice to meet you!👋🏽<.p>
+# <p align="center">Holla, Nice to meet you!👋🏽</p>
   
 
 ### <div align="center">Holla, I'm Jemimah, a frontend developer also aspiring to go into fullstack. Nice to have you hear, have fun.</div>  
