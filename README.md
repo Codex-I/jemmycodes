@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Holla, I'm Jemimah, a frontend developer also aspiring to go into fullstack. Nice to have you hear, have fun.</div>  
