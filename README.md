@@ -1,36 +1,132 @@
-<h1 align="center">Hi 👋, I'm Jemmy</h1>
-<h3 align="center">I'm a Frontend Developer from West-Africa. A student of Computer Science in Lagos State University with passion for designing very good and scalable user interfaces and not forgetting pixel-perfect designs</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jemmycodes&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
+### <div align="center">Holla, I'm Jemimah, a frontend developer also aspiring to go into fullstack. Nice to have you hear, have fun.</div>  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jemmycodes" alt="jemmycodes" /></a> </p>
+- 🔭 I’m currently working on my portfolio  
+  
 
-<p align="left"> <a href="https://twitter.com/codinggirl18" target="blank"><img src="https://img.shields.io/twitter/follow/codinggirl18?logo=twitter&style=for-the-badge" alt="codinggirl18" /></a> </p>
+- 🌱 I’m currently learning Typescript and React  
+  
 
-- 🔭 I’m currently working on [My movie app](https://jemmyplay-movies.vercel.app/)
+- ❓ Ask me about anything related to React, Javascript and CSS   
+  
 
-- 🌱 I’m currently learning **React JS and Next JS**
+- ⚡ Fun fact: I'm the biggest Tiwa Savage fan!
+  
 
-- 👯 I’m open to **Jobs and gigs**
+![Profile views counter](https://komarev.com/ghpvc/?username=jemmycodes&&style=flat-square)  
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/jemmycodes](https://github.com/jemmycodes)
+<br/>  
 
-- 💬 Ask me about **React, Tailwind CSS, Javascript, Styled Components and things under the React eco-system**
 
-- 📫 How to reach me **flashyjotebele@gmail.com**
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-- ⚡ Fun fact **I'm not a nerd😂😎**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codinggirl18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinggirl18" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jemmycodes&show_icons=true&locale=en&layout=compact" alt="jemmycodes" /></p>
+</td><td valign="top" width="33%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jemmycodes&show_icons=true&locale=en" alt="jemmycodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jemmycodes&" alt="jemmycodes" /></p>
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/jemmycodes" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/codinggirl18" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+![Listening to on Spotify](https://github-readme-stats.vercel.app/api?username=jemmycodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+
+![Listening to on Spotify](https://github-profile-trophy.vercel.app/?username=jemmycodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+
+![Listening to on Spotify](https://github-readme-streak-stats.herokuapp.com/?user=jemmycodes&theme=dark&hide_border=false)  
+
+![Listening to on Spotify](https://github-readme-stats.vercel.app/api/top-langs/?username=jemmycodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+
+
+### What I'm listening to now  
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lgkpao21g02mr0aal5sflc8z0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lgkpao21g02mr0aal5sflc8z0&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+
+
+
+### What I am up to  
+![Listening to on Spotify](https://gtce.itsvg.in/api?username=codinggirl18)  
+
+
+
+### Some Quotes  
+![Listening to on Spotify](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
