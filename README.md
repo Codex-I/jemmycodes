@@ -1,7 +1,7 @@
 # <p align="center">Holla, Nice to meet you!👋🏽</p>
   
 
-### <div align="center">Holla, I'm Jemimah, a frontend developer also aspiring to go into fullstack. Nice to have you hear, have fun.</div>  
+### <div align="center">Holla, I'm Jemimah, a frontend developer also aspiring to go into fullstack. Nice to have you here, have fun.</div>  
   
 
 - 🔭 I’m currently working on my portfolio  
@@ -17,6 +17,7 @@
   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jemmycodes&&style=flat-square)  
+[![wakatime](https://wakatime.com/badge/user/7e107bfe-43af-42f9-b251-c5fddfc074df.svg)](https://wakatime.com/@7e107bfe-43af-42f9-b251-c5fddfc074df)
   
 
 <br/>  
@@ -53,19 +54,11 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-
-
 ### What I'm listening to now  
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lgkpao21g02mr0aal5sflc8z0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lgkpao21g02mr0aal5sflc8z0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
 
 
-### What I am up to  
+### My Twitter Feed 
 ![Listening to on Spotify](https://gtce.itsvg.in/api?username=codinggirl18)  
 
 
@@ -91,4 +84,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
