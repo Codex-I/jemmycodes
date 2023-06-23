@@ -42,9 +42,7 @@
 <br/>  
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jemmycodes.jemmycodes&"  />
-</div>
+<img src="https://raw.githubusercontent.com/jemmycodes/jemmycodes/output/snake.svg" alt="Snake animation" />
 
 
 ## Github Stats  
