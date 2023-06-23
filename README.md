@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jemimah</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend web developer from Nigeria</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemmycodes&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
 
@@ -7,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/codinggirl18" target="blank"><img src="https://img.shields.io/twitter/follow/codinggirl18?logo=twitter&style=for-the-badge" alt="codinggirl18" /></a> </p>
 
-- 🔭 I’m currently working on [Jot-it](jot-it-app.vercel.app)
+- 🔭 I’m currently working on: [Jot-it](jot-it-app.vercel.app)
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on: **backend projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jemmycodes](https://github.com/jemmycodes)
+- 👨‍💻 All of my projects are available at: [https://github.com/jemmycodes](https://github.com/jemmycodes)
 
 - 💬 Ask me about **React, TailwindCSS, VanillaCSS and Javascript**
 
 - 📫 How to reach me **flashyjotebele@gmail.com**
 
-- ⚡ Fun fact **Tiwa Savage is the Queen of Afrobeats**
+- ⚡ Fun fact **Tiwa Savage is the Queen of Afrobeats** and **Dodo is goated**
   
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jemmycodes&&style=flat-square)  
