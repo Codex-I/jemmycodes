@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/jemmycodes/jemmycodes/output/snake.svg" alt="Snake animation" />
 
 
-## Github Stats  
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lgkpao21g02mr0aal5sflc8z0&unique={true|1|on|yes}) 
 
 ![Listening to on Spotify](https://github-profile-trophy.vercel.app/?username=jemmycodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
