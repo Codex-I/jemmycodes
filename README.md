@@ -57,7 +57,11 @@
 <br/>  
 
 ### What I'm listening to now  
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lgkpao21g02mr0aal5sflc8z0&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=lgkpao21g02mr0aal5sflc8z0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+<div align="center">
+  <a href="https://open.spotify.com/user/jemmy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>  
 
 
 ### My Twitter Feed 
