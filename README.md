@@ -63,27 +63,6 @@
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lgkpao21g02mr0aal5sflc8z0&unique={true|1|on|yes}) 
 
-![Listening to on Spotify](https://github-profile-trophy.vercel.app/?username=jemmycodes&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
-![Listening to on Spotify](https://github-readme-streak-stats.herokuapp.com/?user=jemmycodes&theme=dark&hide_border=false)  
-
-![Listening to on Spotify](https://github-readme-stats.vercel.app/api/top-langs/?username=jemmycodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-<br/>  
-
-### What I'm listening to now  
-<div align="center">
-  <a href="https://open.spotify.com/user/jemmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>  
-
-
-### My Twitter Feed 
-![Listening to on Spotify](https://gtce.itsvg.in/api?username=codinggirl18)  
-
-
-
 ### Some Quotes  
 ![Listening to on Spotify](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
